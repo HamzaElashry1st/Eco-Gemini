@@ -11,5 +11,31 @@
 <h2>v1.0c:</h2>
   Make index page's layout.
 
-<h2>v1.1:</h2>
+<h2>v1.1a:</h2>
+  Complete the index page.
+
+<h2>v1.1b:</h2>
   Make the To-Do page's layout.
+
+<h2>v1.2a:</h2>
+  Make the about page.
+
+<h2>v1.2b:</h2>
+  Make the leaderboard's table.
+
+<h2>v1.2c:</h2>
+  Make the leaderboard's fetch from GitHub.
+
+<h2>v1.3a:</h2>
+  Remake the Eco-Gemini page.
+
+<h2>v1.3b:</h2>
+  Add Beat the record.
+  Fix 4 bugs.
+  Add settings.
+
+<h2>v1.3c:</h2>
+  Fix 3 bugs.
+  Add changelog.
+  Add birthday setting.
+  Additional improvements.
