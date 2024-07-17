@@ -1,8 +1,15 @@
-....:
-  .........
+<h2>v1.0a:</h2>
+  Make the first page.
 
-....:
-  .........
+<h2>v1.0b:</h2>
+  Make the AI interactive.
 
-....:
-  .........
+<h2>-1.0c:</h2>
+  TODO:
+    Make another pages.
+
+<h2>v1.0c:</h2>
+  Make index page's layout.
+
+<h2>v1.1:</h2>
+  Make the To-Do page's layout.
