@@ -39,3 +39,7 @@
   Add changelog.
   Add birthday setting.
   Additional improvements.
+
+<h2>1.4a</h2>
+  Fix a few bugs.
+  Simple but important improvements.
