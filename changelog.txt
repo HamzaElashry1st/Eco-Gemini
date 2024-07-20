@@ -45,4 +45,4 @@
   Simple but important improvements.
 
 <h2>1.4b</h2>
-  Fix a lot of bugs (More than 8).
+  Fix a lot of bugs (More than 6 bugs).
