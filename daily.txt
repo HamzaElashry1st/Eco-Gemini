@@ -1,5 +1,5 @@
 <div>
-  <p>What of them is a greenhouse gas?</p>
+  <p id="title">What of them is a greenhouse gas?</p>
   <input type="radio" id="q1" class="correct" name="quiz" value="CO2">
   <label for="q1">Carbon Dioxide</label>
   <br>
