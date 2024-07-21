@@ -46,3 +46,7 @@
 
 <h2>1.4b</h2>
   Fix a lot of bugs (More than 6 bugs).
+
+<h2>v1.4c:</h2>
+  Make a few improvements and bug fixes.
+  Add the "Get a suggestion" button.
