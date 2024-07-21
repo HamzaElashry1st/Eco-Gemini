@@ -1,11 +1,11 @@
 <div>
-  <p>What are the main gas of the greenhouse gases?</p>
+  <p>What of them is a greenhouse gas?</p>
   <input type="radio" id="q1" class="correct" name="quiz" value="CO2">
   <label for="q1">Carbon Dioxide</label>
   <br>
-  <input type="radio" id="q2" name="quiz" value="H2O">
-  <label for="q2">Water vapor</label>
+  <input type="radio" id="q2" name="quiz" value="N">
+  <label for="q2">Nitrogen</label>
   <br>
-  <input type="radio" id="q3" name="quiz" value="O3">
-  <label for="q3">Ozone</label>
+  <input type="radio" id="q3" name="quiz" value="H">
+  <label for="q3">Hydrogen</label>
 </div>
