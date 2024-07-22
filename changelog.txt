@@ -27,10 +27,10 @@
   Make the leaderboard's fetch from GitHub.
 
 <h2>v1.3a:</h2>
-  Remake the Eco-Gemini page.
+  Remake the "Eco-Gemini" page.
 
 <h2>v1.3b:</h2>
-  Add Beat the record.
+  Add "Beat the record".
   Fix 4 bugs.
   Add settings.
 
@@ -50,3 +50,8 @@
 <h2>v1.4c:</h2>
   Make a few improvements and bug fixes.
   Add the "Get a suggestion" button.
+
+<h2>v1.5a:</h2>
+  Added and completed the Daily Quiz page.
+  Added "Source" in Leaderboard.
+  Changed "To-Do Leaderboard" to "Leaderboard".
