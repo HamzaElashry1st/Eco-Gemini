@@ -18,8 +18,8 @@
   <input type="radio" id="q5" class="correct" name="quiz2" value="Flamingoes">
   <label for="q5">Lesser flamingoes</label>
   <br>
-  <input type="radio" id="q6" name="quiz" value="Gorilla">
-  <label for="q3">Mountain gorillas</label>
+  <input type="radio" id="q6" name="quiz2" value="Gorilla">
+  <label for="q6">Mountain gorillas</label>
   <!-- Question 3 -->
   <p>What didn't the 28th United Nations Climate Change Conference focus on??</p>
   <input type="radio" id="q7" name="quiz3" value="Tortoises">
@@ -28,7 +28,7 @@
   <input type="radio" id="q8" class="correct" name="quiz3" value="Flamingoes">
   <label for="q8">Climate Finance</label>
   <br>
-  <input type="radio" id="q9" name="quiz" value="Gorilla">
+  <input type="radio" id="q9" name="quiz3" value="Gorilla">
   <label for="q9">Global Stocktake</label>
 </div>
 <br>
