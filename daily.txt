@@ -21,7 +21,7 @@
   <input type="radio" id="q6" name="quiz2" value="Gorilla">
   <label for="q6">Mountain gorillas</label>
   <!-- Question 3 -->
-  <p>What didn't the 28th United Nations Climate Change Conference focus on??</p>
+  <p>What didn't the 28th United Nations Climate Change Conference focus on?</p>
   <input type="radio" id="q7" name="quiz3" value="Tortoises">
   <label for="q7">Fossil Fuel Transition</label>
   <br>
