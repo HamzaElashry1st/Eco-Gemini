@@ -52,6 +52,8 @@
   Add the "Get a suggestion" button.
 
 <h2>v1.5a:</h2>
-  Added and completed the Daily Quiz page.
-  Added "Source" in Leaderboard.
-  Changed "To-Do Leaderboard" to "Leaderboard".
+  Add and complete the Daily Quiz page.
+  Add "Source" in Leaderboard.
+  Change "To-Do Leaderboard" to "Leaderboard".
+  A few changes for the leaderboard.
+  Complete the desktop edition.
