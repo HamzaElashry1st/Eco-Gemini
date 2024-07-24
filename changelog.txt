@@ -56,4 +56,5 @@
   Add "Source" in Leaderboard.
   Change "To-Do Leaderboard" to "Leaderboard".
   A few changes for the leaderboard.
-  Complete the desktop edition.
+  Complete the desktop edition (Code at /Desktop).
+  Prevent Tab key from selecting the next element on the page.
