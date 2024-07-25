@@ -59,3 +59,5 @@
   Complete the desktop edition (Code at /Desktop).
   Prevent Tab key from selecting the next element on the page.
   Fix more than 6 bugs all over the website.
+  A few improvements for the code.
+  Add an option to download the conversation.
