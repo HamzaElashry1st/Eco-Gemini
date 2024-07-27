@@ -62,3 +62,4 @@
   Fix more than 6 bugs all over the website.
   A few improvements for the code.
   Add an option to download the conversation.
+  Add a 60-seconds delay for To-Do.
