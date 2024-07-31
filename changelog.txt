@@ -66,3 +66,8 @@
   Add an option to download the conversation.
   Add a 60-seconds delay for To-Do.
   Change from python -m http.server [port] to C# built-in HttpListener in desktop edition.
+
+<h2>v1.5c:</h2>
+  - This might be the last version.
+  Add some shades for the website, making a better feeling of realistic.
+  Add some protection for the API_KEY.
