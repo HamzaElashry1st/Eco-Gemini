@@ -71,3 +71,7 @@
   - This might be the last version.
   Add some shades for the website, making a better feeling of realistic.
   Add some protection for the API_KEY.
+  Record the video.
+  After recording the video:
+    Add some sounds to the website.
+    A few bug fixes.
