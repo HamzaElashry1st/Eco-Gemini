@@ -75,5 +75,6 @@
   After recording the video:
     Add some sounds to the website.
     A few bug fixes.
-After submitting:
+  After submitting:
     Add loading icon to AI outputs.
+    Change daily quiz from fetching from GitHub to AI-Generated quizzes.
