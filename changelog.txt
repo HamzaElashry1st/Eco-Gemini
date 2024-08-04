@@ -78,3 +78,4 @@
   After submitting:
     Add loading icon to AI outputs.
     Change daily quiz from fetching from GitHub to AI-Generated quizzes.
+    Add a custom context menu.
