@@ -1,4 +1,0 @@
-
-<p class="msg">dsac</p><p class="uid">hj</p>
-<p class="msg">hdsakj</p><label class="uid">ihdas</label>
-<label class="msg">agdskljf </label><label class="uid">sah</label>
